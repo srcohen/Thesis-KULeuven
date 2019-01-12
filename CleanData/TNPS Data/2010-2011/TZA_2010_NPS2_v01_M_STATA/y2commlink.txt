@@ -1,0 +1,3 @@
+31 January 2013
+
+The file y2commlink has been provided to facilitate the merging of the year 2 community data.
